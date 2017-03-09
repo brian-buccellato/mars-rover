@@ -11,9 +11,13 @@ The Mars Rover application reads a file which defines a plateau to be explored (
 
 # Input File Format
 The acceptable input file format is as follows:
+
 5 5 
+
 1 1 N 
+
 MLR
+
 line 1: two integers which define the top right cordinates of the plateau, ie the Northeast corner.  Only One plateau is currently permitted
 line 2: the first integer is the x starting position, second is the y starting position, the character defines the rovers direction
 line 3: sequence of commands for the rover.  M- move one space in the direction the rover is facing.  R- Rotate the rover 90 degrees to the right.  L- Rotate the rover 90 degrees to the left.
