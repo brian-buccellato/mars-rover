@@ -5,9 +5,9 @@ The Mars Rover application reads a file which defines a plateau to be explored (
 * Python 2.7
 
 # Instructions
-* To run application run in command line  "path to folder containing files" python main.py input.txt
-* To run tests in command line "path to folder containing files" python tests.py
-* To run alternative input files, create a .txt file in the same directory and run  "path to folder containing files" python main.py "your custom input file name".txt
+* To run application run in command line  \<path to folder containing files\> python main.py input.txt
+* To run tests in command line \<path to folder containing files\> python tests.py
+* To run alternative input files, create a .txt file in the same directory and run  \<path to folder containing files\> python main.py \<your custom input file name\>.txt
 
 # Input File Format
 The acceptable input file format is as follows:
